@@ -135,6 +135,7 @@ class Jobs extends Component {
         <button
           className="search-button"
           type="button"
+          aria-label="Search"
           data-testid="searchButton"
           onClick={() => this.getJobs()}
         >

@@ -124,7 +124,7 @@ class JobItemDetails extends Component {
 
   renderJobDetails = () => {
     const {jobDetails} = this.state
-    //Fill this method
+    // Fill this method
   }
 
   renderJobDetailsPage() {
